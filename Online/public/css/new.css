@@ -1,0 +1,25 @@
+/*file slider*/
+.slider-images {
+	height: 441px;
+}
+
+/*file page-trang-chinh*/
+.luotxem-soluong {
+	color: #C4C1BC;
+}
+
+.dang-ky-thanh-cong {
+	color: green;
+}
+
+.dang-ky-that-bai, .dang-nhap-that-bai {
+	color: red;
+}
+
+.tieu-de-lich-su-mua{
+	color: orange;
+}
+
+.khung-sp-nd{
+	height: 350px;
+}
